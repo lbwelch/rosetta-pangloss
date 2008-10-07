@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eopas xmlns="http://wiki.arts.unimelb.edu.au/ethnoer/EOPAS/1.0/" xmlns:olac="http://www.languagearchives. org/OLAC/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+	<header>
+		<olac:olac>
+			<dc:format xsi:type="dcterms:IMT">text/xml</dc:format>
+			<dc:identifier xsi:type="dcterms:URI">18405154</dc:identifier>
+			<dcterms:requires xsi:type="dcterms:URI">mediafiles/18405154.vob</dcterms:requires>
+			<dc:creator>Nick Thieberger</dc:creator>
+			<dc:title>Wit Go Kusu</dc:title>
+			<dc:contributor xsi:type="olac:role" olac:code="annotator">Nick Thieberger</dc:contributor>
+			<dc:contributor xsi:type="olac:role" olac:code="speaker">Tokelau Takau</dc:contributor>
+			<dc:coverage>VU</dc:coverage>
+			<dc:subject xsi:type="olac:language" olac:code="erk"/>
+			<dc:language xsi:type="olac:language" olac:code="erk"/>
+			<dc:date>2006-09-22+10:00</dc:date>
+			<dc:type xsi:type="olac:linguistic-type" olac:code="Primary Text"/>
+			<dc:type xsi:type="olac:discourse-type" olac:code="Narrative"/>
+		</olac:olac>
+	</header>
+	<Interlinear-text>
+		<phrases>
+			<phrase id="s1" startTime="10.963" endTime=" 16.802">
+				<text xsi:type="translation">I want to tell you, Nick, I'll tell you about the rat and the octopus.</text>
+				<text xsi:type="orthographic">Amurin gag puserek, Nick, kafo gag pusereki kusu go wit. </text>
+				<words>
+					<word>
+						<text xsi:type="orthographic">Amurin</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">a=</text>
+								<text xsi:type="gloss">1sgRS=</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">mur</text>
+								<text xsi:type="gloss">want</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">-i</text>
+								<text xsi:type="gloss">-TS</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">-n</text>
+								<text xsi:type="gloss">-3sgO</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">gag</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">gag</text>
+								<text xsi:type="gloss">2sgBEN</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">puserek,</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">puserek</text>
+								<text xsi:type="gloss">talk</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">Nick,</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">Nick</text>
+								<text xsi:type="gloss">Nick</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">kafo</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">ka=</text>
+								<text xsi:type="gloss">1sgIRR=</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">fo</text>
+								<text xsi:type="gloss">PSP.IR</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">gag</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">ag</text>
+								<text xsi:type="gloss">sgBEN</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">pusereki</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">puserek</text>
+								<text xsi:type="gloss">talk</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">-ki</text>
+								<text xsi:type="gloss">-TR</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">kusu</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">kusu</text>
+								<text xsi:type="gloss">rat</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">go</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">go</text>
+								<text xsi:type="gloss">and</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">wit.</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">wit</text>
+								<text xsi:type="gloss">octopus</text>
+							</morpheme>
+						</morphemes>
+					</word>
+				</words>
+			</phrase>
+			<phrase id="s2" startTime="16.802" endTime=" 20.465">
+				<text xsi:type="translation">One day, it was low tide.</text>
+				<text xsi:type="orthographic">Naliati iskei, elau imat. </text>
+				<words>
+					<word>
+						<text xsi:type="orthographic">Naliati</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">naliati</text>
+								<text xsi:type="gloss">day</text>
+							</morpheme>
+						</morphemes>
+					</word>
+					<word>
+						<text xsi:type="orthographic">iskei, elau imat.</text>
+						<morphemes>
+							<morpheme>
+								<text xsi:type="morpheme">i=</text>
+								<text xsi:type="gloss">3sg.R.SBJ=</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">skei</text>
+								<text xsi:type="gloss">one</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">elau</text>
+								<text xsi:type="gloss">sea</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">i=</text>
+								<text xsi:type="gloss">3sgRS=</text>
+							</morpheme>
+							<morpheme>
+								<text xsi:type="morpheme">mat</text>
+								<text xsi:type="gloss">low_tide</text>
+							</morpheme>
+						</morphemes>
+					</word>
+				</words>
+			</phrase>
+		</phrases>
+	</Interlinear-text>
+</eopas>

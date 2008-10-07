@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/xsl' href='IGTv2.4.xsl'?>
+<!-- based on the Bow, Bird and Hughes (2003) standard, found at http://emeld.org/school/classroom/text/tech.html -->
+<!-- This document was produced by the Vaultese Falcon: an interlinear text archiving tool. -->
+<resource>
+	<interlinear_text>
+		<item type="title">This is the (temporary) title.</item>
+		<item type="comment">Your comments appear here.</item>
+		<phrases>
+			<phrase>
+				<item type="number">1</item>
+				<item type="gls">A Tuvan people’s tale called Boktu-Kiriš Bora-Šeelei,</item>
+				<words>
+					<word>
+						<item type="txt">tɨʋa</item>
+						<item type="gls">tuvan</item>
+						<morphemes>
+							<morph>
+								<item type="txt">tɨʋa</item>
+								<item type="gls">Tuvan</item>
+							</morph>
+						</morphemes>
+					</word>
+					<word>
+						<item type="txt">ulustuŋ</item>
+						<item type="gls">peoplegen</item>
+						<morphemes>
+							<morph>
+								<item type="txt">ulustu</item>
+								<item type="gls">people</item>
+							</morph>
+							<morph>
+								<item type="txt">ŋ</item>
+								<item type="gls">GEN</item>
+							</morph>
+						</morphemes>
+					</word>
+					<word>
+						<item type="txt">boktukiriš,</item>
+						<item type="gls">boktukiriš</item>
+						<morphemes>
+							<morph>
+								<item type="txt">boktu</item>
+								<item type="gls">Boktu</item>
+							</morph>
+							<morph>
+								<item type="txt">kiriš,</item>
+								<item type="gls">Kiriš</item>
+							</morph>
+						</morphemes>
+					</word>
+					<word>
+						<item type="txt">borašeelej</item>
+						<item type="gls">boraŠeelei</item>
+						<morphemes>
+							<morph>
+								<item type="txt">bora</item>
+								<item type="gls">Bora</item>
+							</morph>
+							<morph>
+								<item type="txt">šeelej</item>
+								<item type="gls">Šeelei</item>
+							</morph>
+						</morphemes>
+					</word>
+					<word>
+						<item type="txt">dep,</item>
+						<item type="gls">quot</item>
+						<morphemes>
+							<morph>
+								<item type="txt">dep,</item>
+								<item type="gls">QUOT</item>
+							</morph>
+						</morphemes>
+					</word>
+				</words>
+			</phrase>
+			<phrase>
+				<item type="number">2</item>
+				<item type="gls">of which there are many different versons.</item>
+				<words>
+					<word>
+						<item type="txt">dɨka</item>
+						<item type="gls">very</item>
+						<morphemes>
+							<morph>
+								<item type="txt">dɨka</item>
+								<item type="gls">very</item>
+							</morph>
+						</morphemes>
+					</word>
+					<word>
+						<item type="txt">xöj</item>
+						<item type="gls">many</item>
+						<morphemes>
+							<morph>
+								<item type="txt">xöj</item>
+								<item type="gls">many</item>
+							</morph>
+						</morphemes>
+					</word>
+					<word>
+						<item type="txt">janzɨ</item>
+						<item type="gls">different</item>
+						<morphemes>
+							<morph>
+								<item type="txt">janzɨ</item>
+								<item type="gls">different</item>
+							</morph>
+						</morphemes>
+					</word>
+					<word>
+						<item type="txt">tooldarɨ</item>
+						<item type="gls">talepl3</item>
+						<morphemes>
+							<morph>
+								<item type="txt">tool</item>
+								<item type="gls">tale</item>
+							</morph>
+							<morph>
+								<item type="txt">dar</item>
+								<item type="gls">PL</item>
+							</morph>
+							<morph>
+								<item type="txt">ɨ</item>
+								<item type="gls">3</item>
+							</morph>
+						</morphemes>
+					</word>
+					<word>
+						<item type="txt">bar.</item>
+						<item type="gls">cop</item>
+						<morphemes>
+							<morph>
+								<item type="txt">bar.</item>
+								<item type="gls">COP</item>
+							</morph>
+						</morphemes>
+					</word>
+				</words>
+			</phrase>
+		</phrases>
+	</interlinear_text>
+</resource>
