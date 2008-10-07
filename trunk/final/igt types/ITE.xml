@@ -1,0 +1,48 @@
+<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<TEXT>
+  <S>
+    <FORM>Ñukaka Noah shutimi kani</FORM>
+    <TRANSL>My name is Noah</TRANSL>
+    <W>
+      <FORM>Ñukaka</FORM>
+      <TRANSL>I</TRANSL>
+      <M>
+        <FORM>Ñuka</FORM>
+        <TRANSL>1</TRANSL>
+      </M>
+      <M>
+        <FORM>ka</FORM>
+        <TRANSL>NOM</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>Noah</FORM>
+      <TRANSL>Noah</TRANSL>
+    </W>
+    <W>
+      <FORM>shutimi</FORM>
+      <TRANSL>call</TRANSL>
+      <M>
+        <FORM>shuti</FORM>
+        <TRANSL>call</TRANSL>
+      </M>
+      <M>
+        <FORM>mi</FORM>
+        <TRANSL>IND</TRANSL>
+      </M>
+    </W>
+    <W>
+      <FORM>kani</FORM>
+      <TRANSL>be</TRANSL>
+      <M>
+        <FORM>ka</FORM>
+        <TRANSL>be</TRANSL>
+      </M>
+      <M>
+        <FORM>ni</FORM>
+        <TRANSL>1</TRANSL>
+      </M>
+    </W>
+  </S>
+  <S />
+</TEXT>
