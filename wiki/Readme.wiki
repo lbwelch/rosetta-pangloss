@@ -1,5 +1,5 @@
 #summary Basic information about this package
-#labels Phase-Deploy
+#labels Phase-Deploy,Featured
 
 =Pangloss Prototype - !OpenOffice.org macro and command-line interface=
  * created by the [http://www.rosettaproject.org Rosetta Project] as part of the [http://www.rosettaproject.org/about-us/projects/pangloss Pangloss Feasibility Study]
