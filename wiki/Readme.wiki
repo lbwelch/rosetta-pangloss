@@ -1,19 +1,6 @@
 #summary Basic information about this package
 #labels Phase-Deploy
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
-
 =Pangloss Prototype - OpenOffice.org macro and command-line interface=
 * created by the Rosetta Project as part of the Pangloss Feasibility Study
 
