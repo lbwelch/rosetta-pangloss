@@ -20,7 +20,7 @@ The outputs of this project can be summarized as follows:
 This package contains the programs and macros developed under the Pangloss Feasibility Study. The package may be installed in the user's !OpenOffice.org installation. It should reside within the macros/scripting folder within the installation itself, to have access to the !OO.org python installation.
 
  # *eti* module must be installed by user into !OpenOffice.org python installation (for example, _/Applications/!OpenOffice.org\ 2.1.app/Contents/MacOS/program_)
- ## *eti* module contains *xml* module for Core XML support for Python, which includes the *ElementTree* libraries
- # *ETIfront.py* should be installed into any of the macro locations (e.g. for application-wide usage, /Applications/!OpenOffice.org\ 2.1.app/Contents/MacOS/share/Scripts/python)
+ ## *eti* module contains *xml* module for Core XML support for Python, which includes the *!ElementTree* libraries
+ # *ETIfront.py* should be installed into any of the macro locations (e.g. for application-wide usage, _/Applications/!OpenOffice.org\ 2.1.app/Contents/MacOS/share/Scripts/python_)
 
  * *ETu.py* (within *eti* module)  is a command-line user interface that contains most of the proposed first-iteration functionality of the Pangloss suite. 
