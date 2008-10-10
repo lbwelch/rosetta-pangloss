@@ -2,7 +2,7 @@
 #labels Phase-Deploy
 
 =Pangloss Prototype - OpenOffice.org macro and command-line interface=
-* created by the Rosetta Project as part of the Pangloss Feasibility Study
+* created by the [http://www.rosettaproject.org Rosetta Project] as part of the [http://www.rosettaproject.org/about-us/projects/pangloss Pangloss Feasibility Study]
 
 * author: Jeremy Fahringer
 * created: Jan - July 02008
