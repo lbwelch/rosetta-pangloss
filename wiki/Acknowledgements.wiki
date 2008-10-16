@@ -1,0 +1,8 @@
+#summary : Acknowledges contributors
+
+= Acknowledgments =
+
+Work on this project was conducted by the [http://rosettaproject.org Rosetta Project] under the auspices of the
+[http://longnow.org Long Now Foundation] and was funded by the [http://nsf.gov/ National Science Foundation] under grant number BCS-0715246 whose support we gratefully acknowledge.
+
+http://www.nsf.gov/images/logos/logo1sm.gif
